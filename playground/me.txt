@@ -1,0 +1,5 @@
+{{#user}}
+Name: Annie Pauline
+Skills: HTML, CSS, JS, React.js, Java, SQL, Data structures,Algorithms, AWS, Git
+Email: anniepauline.23@gmail.com
+{{/user}}
